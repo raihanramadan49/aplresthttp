@@ -1,5 +1,5 @@
 # aplresthttp
-entri data karyawan CRUD
+entri data karyawan CRUD dengan MongoDB
 
 cara menjalankan (dengan vscode)
 - buka terminal di vscode
